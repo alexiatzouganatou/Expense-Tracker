@@ -5,7 +5,7 @@ Built using HTML, CSS, and JavaScript, this project focuses on budgeting, data t
 
 🌐 Live Demo: alexiatzouganatou.github.io/Expense-Tracker
 
-💾 Source Code: github.com/alexiatzouganatou/Expense-Tracker
+💾 Source Code: https://github.com/alexiatzouganatou/Expense-Tracker.git
 
 💡 Key Features:
 
