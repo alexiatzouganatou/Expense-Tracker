@@ -3,7 +3,7 @@
 A simple and interactive web app to help you track and manage your daily expenses.
 Built using HTML, CSS, and JavaScript, this project focuses on budgeting, data tracking, and responsive design.
 
-🌐 Live Demo: alexiatzouganatou.github.io/Expense-Tracker
+🌐 Live Demo:  https://alexiatzouganatou.github.io/Expense-Tracker/
 
 💾 Source Code: https://github.com/alexiatzouganatou/Expense-Tracker.git
 
