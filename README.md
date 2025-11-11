@@ -1,46 +1,35 @@
 💰 Expense Tracker
 
-Welcome to Expense Tracker, a simple yet powerful web application that helps you manage and track your daily expenses with ease.
-This project was built using HTML, CSS, and JavaScript, and focuses on improving budgeting and data visualization skills.
+A simple and interactive web app to help you track and manage your daily expenses.
+Built using HTML, CSS, and JavaScript, this project focuses on budgeting, data tracking, and responsive design.
 
-🚀 Live Demo:
+🌐 Live Demo: alexiatzouganatou.github.io/Expense-Tracker
 
-👉 alexiatzouganatou.github.io/Expense-Tracker
-
-💾 Source Code:
-
-👉 github.com/alexiatzouganatou/Expense-Tracker
+💾 Source Code: github.com/alexiatzouganatou/Expense-Tracker
 
 💡 Key Features:
 
-➕ Add, edit, and delete expenses easily
+➕ Add, edit, and delete expenses
 
-📅 Track spending history with date-based records
+📅 Track spending history
 
-💸 Calculate total expenses dynamically
+💸 Dynamic total calculation
 
-📊 Interactive and minimal interface for clean data display
+📊 Minimal and clean interface
 
-📱 Fully responsive design — works perfectly on all devices
+📱 Fully responsive design
 
-🧠 What I Learned
+🧠 What I Learned:
 
-Through this project, I practiced:
+DOM manipulation and event handling
 
-DOM manipulation with JavaScript
+Using Local Storage for data persistence
 
-Local storage data handling
+Designing user-friendly interfaces
 
-Clean and user-friendly UI design
+Building simple and functional web apps
 
-Creating functional mini web apps for real use cases
+🛠️ Technologies Used:
+HTML | CSS | JavaScript
 
-🛠️ Technologies Used
-
-HTML5
-
-CSS3 (Flexbox, responsive layout)
-
-Vanilla JavaScript
-
-This project was a great exercise in improving my JavaScript logic, UI design, and data handling skills — and it’s a step forward in my journey as a Front-End Developer. 🚀
+✨ This project helped me improve my JavaScript logic, UI design, and data management skills — another step in my Front-End Development journey! 🚀
